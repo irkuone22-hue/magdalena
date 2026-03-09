@@ -3,9 +3,9 @@ body{
 
   margin: 0;
   height: 100vh;
-  background: linear-gradient( 50deg,#6037DB,#6E58A3,#3A0ECC,#778A63);
-  background-size: 600% 600%;
-  animation: gradientShift 5s ease infinite;
+  background: linear-gradient( 45deg,#6037DB,#6E58A3,#3A0ECC,#778A63);
+  background-size: 400% 400%;
+  animation: gradientShift 10s ease infinite;
 }
 
 @keyframes gradientShift {
@@ -17,10 +17,10 @@ body{
 
 	h1{color: #FFFFFF;
 		font-family: Papyrus, fantasy;
-		font-size:80px;
+		font-size:70px;
 		background-color: #ADA726;
 		text-align: center;
-		padding-top: 50px;
+		padding-top: 30px;
 		margin-left: 100px;
 		margin-right: 100px;
 	}
@@ -32,17 +32,21 @@ body{
                      
 	}
 		
-	   img {
-  display: block;
-  width: 30%; /* or specific width */
-  margin: auto;
+	  img{display: block;
+	    margin: auto;
+	    border-style: dotted;
+	    border-color: #823612;
+        border-width: 15PX;
+        padding:5px;
+        margin-top:30px;
+        width: 200px;
 }   
 		
     }
 
     ul{list-style-type: none;
-       margin:20px;
-       padding:0px;
+       margin:0px;
+       padding:10px;
        overflow: hidden;
        background-color:#B7C443;}
 
