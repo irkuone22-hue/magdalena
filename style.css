@@ -18,11 +18,11 @@ body{
 	h1{color: #FFFFFF;
 		font-family: Papyrus, fantasy;
 		font-size:80px;
-		background-color: #000000;
+		background-color: #ADA726;
 		text-align: center;
-		padding-top: 70px;
-		margin-left: 120px;
-		margin-right: 120px;
+		padding-top: 50px;
+		margin-left: 100px;
+		margin-right: 100px;
 	}
 
 	p{color: #000000;
@@ -34,7 +34,7 @@ body{
 		
 	   img {
   display: block;
-  width: 40%; /* or specific width */
+  width: 30%; /* or specific width */
   margin: auto;
 }   
 		
@@ -42,9 +42,9 @@ body{
 
     ul{list-style-type: none;
        margin:20px;
-       padding: 10px;
+       padding:0px;
        overflow: hidden;
-       background-color: white;}
+       background-color:#B7C443;}
 
     ul li{float:left;
         padding-left: 30px}
@@ -53,9 +53,9 @@ body{
 
      ul  li a {display:block;
         color: black;
-        text-decoration: wavy;
+        text-decoration: none;
         text-align: center;
-        font-family: courier;
+        font-family: Copperplate, Papyrus, fantasy;
         font-size: 20px;
         font-style:15px;
       
