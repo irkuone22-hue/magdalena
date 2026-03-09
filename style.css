@@ -31,9 +31,8 @@ body{
                      
 	}
 
-	 img{display: block;
+	 img{ 
 		border-radius: 50%;
-	    margin: none;
 	    border style: wavy;
 	    border color: #823612;
         border-width: 15PX;
@@ -55,7 +54,7 @@ body{
 
      ul  li a {display:block;
         color: black;
-        text-decoration:wavy;
+        text-decoration: wavy;
         text-align: center;
         font-family: courier;
         font-size: 20px;
