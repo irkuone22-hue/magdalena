@@ -5,7 +5,7 @@ body{
   height: 100vh;
   background: linear-gradient( 90deg,#681ED9, #6ea653,#4631c3,#562d8d);
   background-size: 800% 800%;
-  animation: gradientShift 40s ease infinite;
+  animation: gradientShift 8s ease infinite;
 }
 
 @keyframes gradientShift {
@@ -30,14 +30,13 @@ body{
 	    text-align: center;
                      
 	}
-
-	 img{ 
-		border-radius:90%;
-	    border color: #823612;
-        border-width: 15PX;
-        padding:5px;
-        margin: center;
-        width: 200px;
+		
+	   img {
+  display: block;
+  width: 50%; /* or specific width */
+  margin: auto;
+}   
+		
     }
 
     ul{list-style-type: none;
