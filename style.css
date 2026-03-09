@@ -15,10 +15,10 @@ body{
 
 }
 
-	h1{color: #83cb6b;
+	h1{color: #000000;
 		font-family: Copperplate, Papyrus, fantasy;
 		font-size:40px;
-		background-color:  #000000;
+		background-color:  #F5FFD4;
 		text-align: margin- center;
 		padding-top: 5px;
 		margin-left: 100px;
@@ -31,9 +31,9 @@ body{
                      
 	}
 
-	 img{display:block;
+	 img{display: block;
 	    margin: auto;
-	    border border-style: dotted;
+	    border style: wavy;
 	    border color: #823612;
         border-width: 15PX;
         padding:5px;
