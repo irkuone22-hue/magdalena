@@ -32,12 +32,11 @@ body{
 	}
 
 	 img{ 
-		border-radius: 50%;
-	    border style: wavy;
+		border-radius: 50%
 	    border color: #823612;
         border-width: 15PX;
         padding:5px;
-        margin-top:30px;
+        margin: auto;
         width: 200px;
     }
 
