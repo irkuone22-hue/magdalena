@@ -16,10 +16,10 @@ body{
 }
 
 	h1{color: #83cb6b;
-		font-family: courier new;
+		font-family: Copperplate, Papyrus, fantasy;
 		font-size:40px;
-		background-color:  #ecf7dc;
-		text-align: margin-left;
+		background-color:  #000000;
+		text-align: margin- center;
 		padding-top: 5px;
 		margin-left: 100px;
 		margin-right: 100px;
@@ -54,7 +54,7 @@ body{
 
      ul  li a {display:block;
         color: black;
-        text-decoration:none;
+        text-decoration:wavy;
         text-align: center;
         font-family: courier;
         font-size: 20px;
