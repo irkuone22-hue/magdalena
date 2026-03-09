@@ -45,13 +45,13 @@ body{
     }
 
     ul{list-style-type: none;
-       margin:10px;
-       padding:0px;
+       margin:0px;
+       padding:10px;
        overflow: hidden;
-       background-color:#B7C443;}
+       background-color: #B7C443;}
 
     ul li{float:left;
-        padding-left: 30px}
+        padding-center: 30px}
 
 
 
