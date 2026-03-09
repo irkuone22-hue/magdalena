@@ -16,13 +16,13 @@ body{
 }
 
 	h1{color: #83cb6b;
-		front font-family: courier new;
-		front size:40px;
+		font-family: courier new;
+		font-size:40px;
 		background-color:  #ecf7dc;
-		text-align: margin- center;
+		text-align: margin-left;
 		padding-top: 5px;
-		margin-left: 200px;
-		margin-right: 200px;
+		margin-left: 100px;
+		margin-right: 100px;
 	}
 
 	p{color: #f8fbcd;
@@ -36,34 +36,32 @@ body{
 	    border border-style: dotted;
 	    border color: #823612;
         border-width: 15PX;
-        Padding:5px;
+        padding:5px;
         margin-top:30px;
         width: 200px;
     }
 
     ul{list-style-type: none;
-       margin:100px;
-       Padding: 0;
+       margin:0px;
+       padding: 10px;
        overflow: hidden;
        background-color: white;}
 
-    ul li{float:left;}
+    ul li{float:left;
+        padding-left: 30px}
 
 
 
      ul  li a {display:block;
         color: black;
-        padding: 20px 8px:;
         text-decoration:none;
         text-align: center;
         font-family: courier;
         font-size: 20px;
         font-style:15px;
-        border-style: dotted;  
-        border-width: 3px
+      
           }
 
 
-ul li a:hover. {background-color: black;}
-
+ul li a:hover {background-color: black;}
 
