@@ -68,3 +68,14 @@ body{
 
 ul li a:hover {background-color: #F7F19C;}
 
+
+
+img{display: block;
+	    margin: auto;
+	    border-style: wavy;
+	    border-color: #823612;
+        border-width: 40PX;
+        padding:10px;
+        margin-top:10px;
+        width: 200px;
+
