@@ -32,7 +32,8 @@ body{
 	}
 
 	 img{display: block;
-	    margin: auto;
+		border-radius: 50%;
+	    margin: none;
 	    border style: wavy;
 	    border color: #823612;
         border-width: 15PX;
