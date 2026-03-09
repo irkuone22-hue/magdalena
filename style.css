@@ -15,17 +15,17 @@ body{
 
 }
 
-	h1{color: #FFFFFF;
+	h1{color: #23253D;
 		font-family: Papyrus, fantasy;
 		font-size:70px;
-		background-color: #ADA726;
+		background-color: #E9F089;
 		text-align: center;
 		padding-top: 30px;
 		margin-left: 100px;
 		margin-right: 100px;
 	}
 
-	p{color: #000000;
+	p{color: #919DCC;
 	    font-family: Copperplate, Papyrus, fantasy;
 	    text-align: center;
 	  
@@ -42,7 +42,7 @@ body{
         width: 200px;
 }   
 		
-    }
+    
 
     ul{list-style-type: none;
        margin:0px;
@@ -78,4 +78,5 @@ img{display: block;
         padding:10px;
         margin-top:10px;
         width: 200px;
+   }
 
