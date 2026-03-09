@@ -32,11 +32,11 @@ body{
 	}
 
 	 img{ 
-		border-radius: 50%
+		border-radius:90%;
 	    border color: #823612;
         border-width: 15PX;
         padding:5px;
-        margin: auto;
+        margin: center;
         width: 200px;
     }
 
