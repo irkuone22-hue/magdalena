@@ -34,19 +34,19 @@ body{
 		
 	  img{display: block;
 	    margin: auto;
-	    border-style: dotted;
+	    border-style: wavy;
 	    border-color: #823612;
-        border-width: 15PX;
-        padding:5px;
-        margin-top:30px;
+        border-width: 40PX;
+        padding:10px;
+        margin-top:10px;
         width: 200px;
 }   
 		
     }
 
     ul{list-style-type: none;
-       margin:0px;
-       padding:10px;
+       margin:10px;
+       padding:0px;
        overflow: hidden;
        background-color:#B7C443;}
 
