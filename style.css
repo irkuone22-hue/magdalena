@@ -3,9 +3,9 @@ body{
 
   margin: 0;
   height: 100vh;
-  background: linear-gradient( 30deg,#681ED9, #6ea653, #4f703f, #45b7d1, #221761,#4631c3,#562d8d);
-  background-size: 400% 400%;
-  animation: gradientShift 10s ease infinite;
+  background: linear-gradient( 90deg,#681ED9, #6ea653, #4f703f, #45b7d1, #221761,#4631c3,#562d8d);
+  background-size: 800% 800%;
+  animation: gradientShift 40s ease infinite;
 }
 
 @keyframes gradientShift {
