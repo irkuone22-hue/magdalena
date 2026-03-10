@@ -17,10 +17,10 @@ body{
 
 	h1{color: #130F54;
 		font-family: "Lucida Console", Monaco, monospace;
-		font-size:70px;
+		font-size:40px;
 		background-color: #F5E96E;
-		text-align: margin-center;
-		padding-top: 10px;
+		text-align: center;
+		padding-top: 50px;
 		margin-left: 100px;
 		margin-right: 100px;
 	}
@@ -65,4 +65,4 @@ body{
           }
 
 
-ul li a:hover {background-color: #A8A7DB;}
+ul li a:hover {background-color: #E8E6BC;}
