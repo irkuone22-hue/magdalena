@@ -15,12 +15,12 @@ body{
 
 	}
 
-	h1{color: #83cb6b;
+	h1{color: #130F54;
 		font-family: "Lucida Console", Monaco, monospace;
-		font-size:40px;
-		background-color: #ecf7dc;
-		text-align: margin-left;
-		padding-top: 5px;
+		font-size:70px;
+		background-color: #F5E96E;
+		text-align: margin-center;
+		padding-top: 10px;
 		margin-left: 100px;
 		margin-right: 100px;
 	}
