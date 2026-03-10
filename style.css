@@ -13,45 +13,42 @@ body{
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 
-}
+	}
 
-	h1{color: #23253D;
-		font-family: Papyrus, fantasy;
-		font-size:70px;
-		background-color: #E9F089;
-		text-align: center;
-		padding-top: 30px;
+	h1{color: #83cb6b;
+		font-family: courier new;
+		font-size:40px;
+		background-color:  #ecf7dc;
+		text-align: margin-left;
+		padding-top: 5px;
 		margin-left: 100px;
 		margin-right: 100px;
 	}
 
-	p{color: #919DCC;
-	    font-family: Copperplate, Papyrus, fantasy;
-	    text-align: center;
-	  
+	p{color: #f8fbcd;
+	    font-family: Helvetica;
+	    text-align:  center;
                      
 	}
-		
-	  img{display: block;
+
+	 img{display:block;
 	    margin: auto;
-	    border-style: wavy;
-	    border-color: #823612;
-        border-width: 40PX;
-        padding:10px;
-        margin-top:10px;
+	    border border-style: dotted;
+	    border color: #823612;
+        border-width: 15PX;
+        padding:5px;
+        margin-top:30px;
         width: 200px;
-}   
-		
-    
+    }
 
     ul{list-style-type: none;
        margin:0px;
-       padding:10px;
+       padding: 10px;
        overflow: hidden;
-       background-color: #B7C443;}
+       background-color: white;}
 
     ul li{float:left;
-        padding-center: 30px}
+        padding-left: 30px}
 
 
 
@@ -59,24 +56,11 @@ body{
         color: black;
         text-decoration: none;
         text-align: center;
-        font-family: Copperplate, Papyrus, fantasy;
+        font-family: courier;
         font-size: 20px;
         font-style:15px;
       
           }
 
 
-ul li a:hover {background-color: #F7F19C;}
-
-
-
-img{display: block;
-	    margin: auto;
-	    border-style: wavy;
-	    border-color: #823612;
-        border-width: 40PX;
-        padding:10px;
-        margin-top:10px;
-        width: 200px;
-   }
-
+ul li a:hover {background-color: black;}
