@@ -16,9 +16,9 @@ body{
 	}
 
 	h1{color: #83cb6b;
-		font-family: courier new;
+		font-family:"Lucida Console", Monaco, monospace;
 		font-size:40px;
-		background-color:  #ecf7dc;
+		background-color: #ecf7dc;
 		text-align: margin-left;
 		padding-top: 5px;
 		margin-left: 100px;
